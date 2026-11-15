@@ -1,0 +1,22 @@
+{
+  "dokumen_id": "DSKP-SN-T6-KSSR-SEMAKAN",
+  "subjek": "Sains",
+  "tahun": "Tahun 6",
+  "versi": "KSSR Semakan 2017",
+  "standards": [
+    {
+      "kod_SK": "1.1",
+      "teks_SK": "Kemahiran Proses Sains",
+      "kod_SP": "1.1.1",
+      "teks_SP": "Memerhati dengan menggunakan semua deria yang terlibat dan alat jika perlu untuk membuat pemerhatian secara kualitatif dan kuantitatif bagi menerangkan fenomena atau perubahan yang berlaku.",
+      "halaman": 15
+    },
+    {
+      "kod_SK": "4.1",
+      "teks_SK": "Interaksi antara Hidupan",
+      "kod_SP": "4.1.1",
+      "teks_SP": "Memerihalkan jenis interaksi antara hidupan iaitu mangsa-pemangsa, persaingan dan simbiosis.",
+      "halaman": 28
+    }
+  ]
+}
